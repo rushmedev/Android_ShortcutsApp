@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style24">
+      <item name="android:background">@color/app_bar_background_color10</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow2</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow2</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color19</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow2">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style20">
+      <item name="android:background">@color/app_bar_background_color16</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow7</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow7</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color11</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow7">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style6">
+      <item name="android:background">@color/app_bar_background_color14</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow13</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow13</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color13</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow13">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style16">
+      <item name="android:background">@color/app_bar_background_color9</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow15</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow15</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color12</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow15">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style11">
+      <item name="android:background">@color/app_bar_background_color</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow16</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow16</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color23</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow16">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style18">
+      <item name="android:background">@color/app_bar_background_color4</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color14</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style21">
+      <item name="android:background">@color/app_bar_background_color7</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow11</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow11</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color7</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow11">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style13">
+      <item name="android:background">@color/app_bar_background_color1</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow12</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow12</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color4</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow12">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style2">
+      <item name="android:background">@color/app_bar_background_color20</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow22</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow22</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color8</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow22">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style12">
+      <item name="android:background">@color/app_bar_background_color2</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow20</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow20</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color3</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow20">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style4">
+      <item name="android:background">@color/app_bar_background_color8</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow9</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow9</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color21</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow9">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style14">
+      <item name="android:background">@color/app_bar_background_color24</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow10</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow10</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow10">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style15">
+      <item name="android:background">@color/app_bar_background_color11</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow4</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow4</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color15</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow4">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style23">
+      <item name="android:background">@color/app_bar_background_color22</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow8</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow8</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color18</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow8">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style">
+      <item name="android:background">@color/app_bar_background_color21</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow24</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow24</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color6</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow24">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style9">
+      <item name="android:background">@color/app_bar_background_color3</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow23</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow23</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color9</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow23">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style19">
+      <item name="android:background">@color/app_bar_background_color13</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow3</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow3</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color1</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow3">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style10">
+      <item name="android:background">@color/app_bar_background_color5</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow6</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow6</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color16</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow6">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style8">
+      <item name="android:background">@color/app_bar_background_color17</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow5</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow5</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color22</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow5">
+      <item name="android:src">@drawable/icons8_enter_mac_key_50px_ffffffff</item>
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style1">
+      <item name="android:background">@color/app_bar_background_color6</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow14</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow14</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color20</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow14">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style22">
+      <item name="android:background">@color/app_bar_background_color15</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow18</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow18</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color5</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow18">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style7">
+      <item name="android:background">@color/app_bar_background_color23</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow17</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow17</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color24</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow17">
+      <item name="android:src">@drawable/icons8_left_24px_ffffffff</item>
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style17">
+      <item name="android:background">@color/app_bar_background_color19</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow21</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow21</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color2</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow21">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style5">
+      <item name="android:background">@color/app_bar_background_color18</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow1</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow1</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color17</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow1">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionBar" name="app_bar_style3">
+      <item name="android:background">@color/app_bar_background_color12</item>
+      <item name="android:actionOverflowButtonStyle">@style/app_bar_overflow19</item>
+      <item name="actionOverflowButtonStyle">@style/app_bar_overflow19</item>
+      <item name="android:textColorPrimary">@color/app_bar_text_color10</item>
+   </style>
+   <style parent="@style/Widget.AppCompat.ActionButton.Overflow" name="app_bar_overflow19">
+      <item name="android:layout_width">24dp</item>
+      <item name="android:layout_height">24dp</item>
+      <item name="android:adjustViewBounds">true</item>
+      <item name="android:scaleType">fitCenter</item>
+   </style>
+</resources>

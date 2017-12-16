@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"  android:background="#FFFFFFFF" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/main">
+   <ScrollView android:fillViewport="true" android:layout_height="match_parent" android:layout_width="match_parent">
+      <android.support.percent.PercentRelativeLayout android:layout_height="wrap_content" android:layout_width="match_parent">
+         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/view_pager1_container" android:orientation="vertical" android:layout_marginStart="0dp" android:layout_marginTop="0dp" android:layout_width="match_parent" android:layout_height="match_parent">
+            <android.support.design.widget.TabLayout app:tabGravity="fill" app:tabMode="fixed" app:tabSelectedTextColor="#FFFFFFFF" app:tabTextColor="#FFFFFFFF" app:tabIndicatorColor="#FFFFFFFF" app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget" app:tabMinWidth="40dp" android:theme="@style/ThemeOverlay.AppCompat.ActionBar" android:background="#FF673AB7" android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/view_pager1_tabs"/>
+            <com.company.app.elements.mainactivity.ViewPager1 android:background="#FFFFFFFF" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/view_pager1"/>
+         </LinearLayout>
+      </android.support.percent.PercentRelativeLayout>
+   </ScrollView>
+</LinearLayout>

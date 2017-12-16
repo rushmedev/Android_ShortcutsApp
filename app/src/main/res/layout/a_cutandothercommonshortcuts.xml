@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"  android:background="#FFFFFFFF" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/a_cutandothercommonshortcuts">
+   <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android" app:titleTextColor="#FFFFFFFF" android:background="#FFFE7301" android:textSize="20sp" android:fontFamily="sans-serif-condensed" android:textStyle="normal" app:title="Cut, copy, paste, and other common shortcuts" android:theme="@style/app_bar_style11" android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/app_bar16"/>
+   <ScrollView android:fillViewport="true" android:layout_height="match_parent" android:layout_width="match_parent">
+      <android.support.percent.PercentRelativeLayout android:layout_height="wrap_content" android:layout_width="match_parent">
+         <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto" android:background="#FFFFFFFF" ads:adUnitId="ca-app-pub-6875663397521117/5407172994" ads:adSize="BANNER" app:layout_marginStartPercent="0%" app:layout_marginTopPercent="89.999997615814%" app:layout_heightPercent="10.000000149012%" android:layout_height="0dp" android:layout_width="match_parent" android:id="@+id/ad_mob_banner_ad120"/>
+         <com.company.app.elements.acutandothercommonshortcutsactivity.ScrollView1 android:background="#FFFFFFFF" android:fillViewport="true" android:scrollbars="vertical" app:layout_marginTopPercent="-0.200000009499%" app:layout_marginStartPercent="0%" android:layout_width="match_parent" app:layout_heightPercent="89.999997615814%" android:layout_height="0dp" android:id="@+id/scroll_view118">
+            <android.support.percent.PercentRelativeLayout android:layout_height="match_parent" android:layout_width="wrap_content">
+               <android.webkit.WebView android:outlineProvider="bounds" android:focusableInTouchMode="true" android:focusable="true" app:layout_marginStartPercent="0%" app:layout_marginTopPercent="0%" android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/web_view1"/>
+            </android.support.percent.PercentRelativeLayout>
+         </com.company.app.elements.acutandothercommonshortcutsactivity.ScrollView1>
+      </android.support.percent.PercentRelativeLayout>
+   </ScrollView>
+</LinearLayout>

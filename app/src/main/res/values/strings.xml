@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+   <string name="text_view1_text1" formatted="false">General Keyboard Shortcuts</string>
+   <string name="text_view5_text" formatted="false">Edit Plus</string>
+   <string name="text_view10_text" formatted="false">Other Shortcuts</string>
+   <string name="text_view3_text2" formatted="false">Document shortcuts</string>
+   <string name="text_view5_text1" formatted="false">Shortcut for Nautilus</string>
+   <string name="text_view1_text" formatted="false">Windows</string>
+   <string name="text_view2_text1" formatted="false">MacOS Shortcuts</string>
+   <string name="text_view4_text" formatted="false">Eclipse</string>
+   <string name="text_view2_text4" formatted="false">Ubuntu</string>
+   <string name="text_view5_text2" formatted="false">Taskbar Shortcuts</string>
+   <string name="text_view4_text1" formatted="false">Shortcuts for Compiz</string>
+   <string name="text_view8_text" formatted="false">Magnifier Shortcuts</string>
+   <string name="text_view4_text3" formatted="false">Finder shortcuts</string>
+   <string name="pager_view2_title" formatted="false">Tricks</string>
+   <string name="text_view1_text4" formatted="false">General Shortcuts</string>
+   <string name="text_view9_text" formatted="false">Narrator Shortcuts</string>
+   <string name="text_view7_text" formatted="false">Remote Desktop Connection</string>
+   <string name="app_name" formatted="false">Shortcuts</string>
+   <string name="text_view2_text3" formatted="false">GNOME Desktop shortcuts</string>
+   <string name="text_view3_text3" formatted="false">Dialog box Shortcuts</string>
+   <string name="text_view1_text2" formatted="false">General Keyboard Shortcuts</string>
+   <string name="text_view3_text1" formatted="false">Apple Mac</string>
+   <string name="text_view6_text" formatted="false">Ease of access Shortcuts</string>
+   <string name="pager_view1_title" formatted="false">Shortcuts</string>
+   <string name="text_view2_text2" formatted="false">Windows Key Shortcuts</string>
+   <string name="text_view2_text" formatted="false">Sleep, log out, and shut down</string>
+   <string name="text_view1_text3" formatted="false">Windows Shortcuts</string>
+   <string name="text_view4_text2" formatted="false">File Explorer Shortcuts</string>
+   <string name="text_view3_text" formatted="false">Terminal Shortcuts</string>
+</resources>
